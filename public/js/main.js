@@ -143,7 +143,8 @@ const endCall = () => {
     }
 }
 
-// initialize app
+// (needs to uncomment)
+// initialize app 
 // const startMyVideo = async () => {
 //     try {
 //         const stream = await navigator.mediaDevices.getUserMedia({ audio: true, video: true });
